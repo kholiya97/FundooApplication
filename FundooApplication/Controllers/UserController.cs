@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace FundooApplication.Controllers
 {
-    [Authorize]
+    
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase

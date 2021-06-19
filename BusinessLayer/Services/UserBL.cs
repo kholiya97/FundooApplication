@@ -13,17 +13,7 @@ namespace BusinessLayer.Services
         {
             this.userRl = userRl;
         }
-        public bool SampleUserApi(Users user)
-        {
-            try
-            {
-                return this.userRl.SampleUserApi(user);
-            }
-            catch (Exception e)
-            {
-                throw new Exception(e.Message);
-            }
-        }
+        
         public Users AddUser(Users user)
         {
             this.userRl.AddUser(user);

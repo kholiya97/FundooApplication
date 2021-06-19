@@ -62,3 +62,11 @@ C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcor
 C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kholi\source\repos\FundooApplication\FundooApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kholi\source\repos\FundooApplication\FundooApplication\obj\Debug\netcoreapp3.1\FundooApplication.MvcApplicationPartsAssemblyInfo.cs

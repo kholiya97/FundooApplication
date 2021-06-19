@@ -14,7 +14,7 @@ namespace RepositoryLayer.Interface
 
         }
 
-        public DbSet<Users> User { get; set; }
+        public DbSet<Users> Users { get; set; }
     }
 }
 
